@@ -11,9 +11,5 @@ public class HelloWorldWriterTest {
 
     }
 
-    @Test
-    public void whenWorkingWithNumbersClass(){
-
-
-    }
+   
 }
